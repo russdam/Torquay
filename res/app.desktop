@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Torquay
+Exec=torquay %F
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=
+Categories=COSMIC;
+Keywords=
+MimeType=
