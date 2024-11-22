@@ -1,4 +1,5 @@
-// SPDX-License-Identifier: {{LICENSE}}
+// Copyright (C) 2024 Russell Damerell-Moss <russell.damerell@me.com>
+// SPDX-License-Identifier: GPL-3.0
 
 use cosmic::cosmic_config::{self, cosmic_config_derive::CosmicConfigEntry, CosmicConfigEntry};
 
